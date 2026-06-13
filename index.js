@@ -8,7 +8,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAtwZfRscKpcrYke190SunR4AtJMrqs5ZQ",
+    apiKey: "Api key",
     authDomain: "expenses-tracker-47e14.firebaseapp.com",
     projectId: "expenses-tracker-47e14",
     storageBucket: "expenses-tracker-47e14.firebasestorage.app",
